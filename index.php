@@ -1,8 +1,3 @@
 <html>
-Hello from Cloud
-<pre>
-<?php
-print `ifconfig`;
-?>
-</pre>
+  <h1>Hello from Cloud</h1>
 </html>
